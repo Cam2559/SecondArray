@@ -1,0 +1,15 @@
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\bin\Debug\net9.0\SecondArray.exe
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\bin\Debug\net9.0\SecondArray.deps.json
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\bin\Debug\net9.0\SecondArray.runtimeconfig.json
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\bin\Debug\net9.0\SecondArray.dll
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\bin\Debug\net9.0\SecondArray.pdb
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.AssemblyInfoInputs.cache
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.AssemblyInfo.cs
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.csproj.CoreCompileInputs.cache
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.sourcelink.json
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.dll
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\refint\SecondArray.dll
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.pdb
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\SecondArray.genruntimeconfig.cache
+C:\Users\camer\Projects\C#_projects\SecondArray_11-12\SecondArray\obj\Debug\net9.0\ref\SecondArray.dll
