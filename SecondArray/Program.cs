@@ -3,7 +3,7 @@ int[] sneakLevel = { 1, 10, 20, 30, 40, 50 };
 string characterName = "Srimm Plim";
 
 
-Console.WriteLine("=== Speech Level Evaluation ===");
+Console.WriteLine(" Speech Level Check");
 
 for (int i = 0; i < speechLevel.Length; i++)
 {
@@ -28,7 +28,7 @@ for (int i = 0; i < speechLevel.Length; i++)
 }
 
 
-Console.WriteLine("\n=== Sneak Level Evaluation ===");
+Console.WriteLine("\nSneak Level Check");
 
 for (int i = 0; i < sneakLevel.Length; i++)
     {
@@ -54,4 +54,4 @@ for (int i = 0; i < sneakLevel.Length; i++)
         }
     }
 
- Console.WriteLine("\nCharacter evaluation complete.");
+ Console.WriteLine("\nCharacter check completed.");
